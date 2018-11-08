@@ -1,0 +1,36 @@
+
+/* Reset
+---------*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 5px;
+}
+
+p {
+    padding: 5px;
+}
+
+/* body
+--------*/
+
+body {
+    font-family: Arial;
+    background-color: #eeeeee;
+}
+
+/* Page content
+---------------*/
+
+#page-content {
+    max-width: 640px;
+    display: table;
+    margin: 40px auto;
+    border-radius: 3px;
+    border: solid 1px #999999;
+    background-color: #ffffff;
+}
