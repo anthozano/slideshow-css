@@ -26,7 +26,7 @@ body {
 /* Page content
 ---------------*/
 
-#page-content {
+.container {
     max-width: 640px;
     display: table;
     margin: 40px auto;
